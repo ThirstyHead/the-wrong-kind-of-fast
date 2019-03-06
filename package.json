@@ -1,0 +1,22 @@
+{
+  "name": "the-wrong-kind-of-fast",
+  "version": "0.1.0",
+  "description": "[PRESENTATION] The Wrong Kind of Fast",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThirstyHead/the-wrong-kind-of-fast.git"
+  },
+  "author": "Scott Davis <scott@thirstyhead.com>",
+  "license": "CC-BY-4.0",
+  "bugs": {
+    "url": "https://github.com/ThirstyHead/the-wrong-kind-of-fast/issues"
+  },
+  "homepage": "https://github.com/ThirstyHead/the-wrong-kind-of-fast#readme",
+  "devDependencies": {
+    "talk-o-vision": "github:thirstyhead/talk-o-vision"
+  }
+}
