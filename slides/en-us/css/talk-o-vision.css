@@ -235,6 +235,11 @@ p.right{
   top: 35vh;
 }
 
+.smaller{
+  font-size: smaller;
+  line-height: 0.1em;
+}
+
 .subtitle{
   font-size: 3rem;
   font-style: italic;
