@@ -1,6 +1,6 @@
 {
   "name": "the-wrong-kind-of-fast",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "[PRESENTATION] The Wrong Kind of Fast",
   "main": "server.js",
   "scripts": {
